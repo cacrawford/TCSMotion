@@ -1,0 +1,6 @@
+require_relative 'loader'
+require 'sugarcube-image'
+BW::require 'motion/buttonbar/bar_button_helper.rb'
+BW::require 'motion/buttonbar/custom_back_button.rb'
+BW::require 'motion/buttonbar/ui_bar_button_item_flat.rb'
+BW::require 'motion/buttonbar/ui_bar_button_item_sticky.rb'
